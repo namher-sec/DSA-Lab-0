@@ -1,2 +1,2 @@
-# DSA-Lab-0
-Data Structures and Algorithms Lab Journal 0
+# DSA-Lab-1
+Data Structures and Algorithms Lab Journal 1
